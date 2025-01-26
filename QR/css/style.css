@@ -59,10 +59,14 @@ body {
 }
 
 .parrafo {
-    width: 70%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .text p {
+    width: 75%;
     font-weight: 400;
     font-size: 15px;
     color: hsl(216, 15%, 48%);
@@ -74,7 +78,7 @@ body {
         width: 89%;
     }
     .parrafo {
-        width: 72%;
+        width: 100%;
     }
 
 }
