@@ -18,13 +18,13 @@ body {
     align-items: center;
     flex-direction: column;
     text-align: center;
-    width: 90%; /* Ocupa hasta el 90% del ancho disponible */
-    max-width: 350px; /* Nunca será más grande que 400px */
+    width: 90%;
+    max-width: 350px;
     height: fit-content;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     padding: 1rem 0;
-    box-sizing: border-box; /* Asegura que padding no aumente el tamaño total */
+    box-sizing: border-box;
 
 }
 
